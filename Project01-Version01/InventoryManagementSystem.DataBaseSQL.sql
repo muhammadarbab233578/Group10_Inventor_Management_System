@@ -157,7 +157,6 @@ INSERT INTO AuditLogs (UserID, Actions, TableAffected, Descriptions) VALUES
 (1, 'Insert', 'Products', 'Added new product Smartphone'),
 (2, 'Update', 'StockMovements', 'Adjusted stock levels for T-Shirt');
 
--- Fetch all tables
 -- Fetch data from all tables
 SELECT * FROM Products;
 SELECT * FROM Suppliers;
