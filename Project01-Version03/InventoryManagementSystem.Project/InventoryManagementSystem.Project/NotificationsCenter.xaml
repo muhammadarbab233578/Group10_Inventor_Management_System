@@ -1,0 +1,39 @@
+﻿<Page x:Class="InventoryManagementSystem.Project.NotificationsCenter"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Title="Notifications Center" Height="557" Width="800">
+
+    <Grid Background="#2B6B2F" Margin="-102,0,-91,91">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Button Content="←" FontSize="20" Foreground="White" Background="Transparent" 
+Width="40" Height="40" HorizontalAlignment="Left" VerticalAlignment="Top"
+Margin="10,10,0,0" Click="GoBackButton_Click"/>
+        <!-- Title -->
+        <TextBlock Text="Notifications Center" FontSize="28" Foreground="White" 
+                   HorizontalAlignment="Center" Margin="0,20,0,0" Grid.RowSpan="2" />
+
+        <!-- Notifications List -->
+        <DataGrid Name="notificationsDataGrid" Margin="20,80,20,20" AutoGenerateColumns="False" 
+                  HeadersVisibility="Column" Background="#333333" Foreground="White" Grid.RowSpan="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="NotificationID" Binding="{Binding NotificationID}" Width="Auto" />
+                <DataGridTextColumn Header="Date" Binding="{Binding Date}" Width="Auto" />
+                <DataGridTextColumn Header="Type" Binding="{Binding Type}" Width="*" />
+                <DataGridTextColumn Header="Message" Binding="{Binding Message}" Width="*" />
+                <DataGridTextColumn Header="Status" Binding="{Binding Status}" Width="Auto" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Clear Notifications Button -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,342,0,0" Grid.Row="1">
+            <Button Content="Clear All Notifications" Background="#4CAF50" Foreground="White" Width="200" Height="40" Margin="5" Click="ClearNotificationsButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
