@@ -1,0 +1,195 @@
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.exe
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.deps.json
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.runtimeconfig.json
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.dll
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.pdb
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Dashboard.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\ForgotPassword .g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\LoginPage.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Register .g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project_MarkupCompile.cache
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project_MarkupCompile.lref
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Dashboard.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\ForgotPassword .baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\LoginPage.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Register .baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.g.resources
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.AssemblyInfoInputs.cache
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.AssemblyInfo.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.csproj.CoreCompileInputs.cache
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.dll
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\refint\InventoryManagementSystem.Project.dll
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.pdb
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.genruntimeconfig.cache
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\ref\InventoryManagementSystem.Project.dll
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\NotificationsCenter.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Setting.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\AuditLogs.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\BarcodeScanning.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\CustomerManagement.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryTracking.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\NotificationsCenter.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Product.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\PurchaseOrderManagement.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\ReportsAndAnalytics.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SalesOrderManagement.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Setting.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\StockMovement.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SupplierManagement.g.cs
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\AuditLogs.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\BarcodeScanning.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\CustomerManagement.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryTracking.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Product.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\PurchaseOrderManagement.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\ReportsAndAnalytics.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SalesOrderManagement.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\StockMovement.baml
+C:\Users\Shahab Computer\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SupplierManagement.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.exe
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.deps.json
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.runtimeconfig.json
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.dll
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.pdb
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\NotificationsCenter.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Setting.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\AuditLogs.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\BarcodeScanning.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\CustomerManagement.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Dashboard.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\ForgotPassword .g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryTracking.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\LoginPage.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\NotificationsCenter.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Product.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\PurchaseOrderManagement.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Register .g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\ReportsAndAnalytics.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SalesOrderManagement.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Setting.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\StockMovement.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SupplierManagement.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project_MarkupCompile.cache
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project_MarkupCompile.lref
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\AuditLogs.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\BarcodeScanning.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\CustomerManagement.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Dashboard.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\ForgotPassword .baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryTracking.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\LoginPage.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Product.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\PurchaseOrderManagement.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Register .baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\ReportsAndAnalytics.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SalesOrderManagement.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\StockMovement.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SupplierManagement.baml
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.g.resources
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.AssemblyInfoInputs.cache
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.AssemblyInfo.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.csproj.CoreCompileInputs.cache
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.dll
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\refint\InventoryManagementSystem.Project.dll
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.pdb
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.genruntimeconfig.cache
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\ref\InventoryManagementSystem.Project.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.exe
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.deps.json
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.runtimeconfig.json
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\InventoryManagementSystem.Project.pdb
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\System.ClientModel.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.csproj.AssemblyReference.cache
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\NotificationsCenter.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\BarcodeScanning.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\CustomerManagement.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Dashboard.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryTracking.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\LoginPage.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\NotificationsCenter.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Product.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\PurchaseOrderManagement.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Register .g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SalesOrderManagement.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\StockMovement.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SupplierManagement.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project_MarkupCompile.cache
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project_MarkupCompile.lref
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\BarcodeScanning.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\CustomerManagement.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Dashboard.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryTracking.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\LoginPage.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Product.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\PurchaseOrderManagement.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\Register .baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SalesOrderManagement.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\StockMovement.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\SupplierManagement.baml
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.g.resources
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.AssemblyInfoInputs.cache
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.AssemblyInfo.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.csproj.CoreCompileInputs.cache
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.csproj.CopyComplete
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\refint\InventoryManagementSystem.Project.dll
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.pdb
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.genruntimeconfig.cache
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\ref\InventoryManagementSystem.Project.dll
+E:\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.dll
+E:\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\refint\InventoryManagementSystem.Project.dll
+E:\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\InventoryManagementSystem.Project.pdb
