@@ -1,0 +1,20 @@
+﻿InventoryManagementSystem.Project
+
+
+winexe
+C#
+.cs
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\
+InventoryManagementSystem.Project
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Al Zubair\source\repos\InventoryManagementSystem.Project\InventoryManagementSystem.Project\App.xaml
+17-579106479
+
+20-129866946
+194178300874
+AuditLogs.xaml;BarcodeScanning.xaml;CustomerManagement.xaml;Dashboard.xaml;ForgotPassword .xaml;InventoryTracking.xaml;LoginPage.xaml;MainWindow.xaml;NotificationsCenter.xaml;Product.xaml;PurchaseOrderManagement.xaml;Register .xaml;ReportsAndAnalytics.xaml;SalesOrderManagement.xaml;Setting.xaml;StockMovement.xaml;SupplierManagement.xaml;
+
+False
+
