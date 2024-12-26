@@ -1,0 +1,20 @@
+﻿InventoryManagementSystem.Project
+
+
+winexe
+C#
+.cs
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\obj\Debug\net6.0-windows\
+InventoryManagementSystem.Project
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\233578\Music\InventoryManagementSystem.Project\InventoryManagementSystem.Project\InventoryManagementSystem.Project\App.xaml
+13-1191505154
+
+16623259709
+21150742479
+BarcodeScanning.xaml;CustomerManagement.xaml;Dashboard.xaml;InventoryTracking.xaml;LoginPage.xaml;MainWindow.xaml;NotificationsCenter.xaml;Product.xaml;PurchaseOrderManagement.xaml;Register .xaml;SalesOrderManagement.xaml;StockMovement.xaml;SupplierManagement.xaml;
+
+False
+
