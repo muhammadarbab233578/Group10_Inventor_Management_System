@@ -1,0 +1,63 @@
+﻿<Window x:Class="lab_final.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Quiz Management" Height="600" Width="800">
+    <Grid Margin="0,27,0,0">
+        <!-- DataGrid for displaying quiz questions -->
+        <DataGrid x:Name="QuizDataGrid" AutoGenerateColumns="False" Margin="334,57,0,200">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Question" Binding="{Binding QuestionText}" Width="200"/>
+                <DataGridTextColumn Header="Options" Binding="{Binding Options}" Width="200"/>
+                <DataGridTextColumn Header="Correct Answer" Binding="{Binding CorrectAnswer}" Width="150"/>
+                <DataGridTextColumn Header="Marks" Binding="{Binding AssignedMarks}" Width="100"/>
+                <DataGridTextColumn Header="Time Limit" Binding="{Binding TimeLimitSeconds}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Form for adding/editing questions -->
+        <StackPanel HorizontalAlignment="left" VerticalAlignment="Top" Margin="0,10,0,0">
+            <TextBlock Text="Question Text:" />
+            <TextBox x:Name="QuestionTextBox" Width="300" Margin="5" />
+
+            <TextBlock Text="Option 1:" />
+            <TextBox x:Name="Option1TextBox" Width="300" Margin="5" />
+
+            <TextBlock Text="Option 2:" />
+            <TextBox x:Name="Option2TextBox" Width="300" Margin="5" />
+
+            <TextBlock Text="Option 3:" />
+            <TextBox x:Name="Option3TextBox" Width="300" Margin="5" />
+
+            <TextBlock Text="Option 4:" />
+            <TextBox x:Name="Option4TextBox" Width="300" Margin="5" />
+
+            <TextBlock Text="Correct Answer:" />
+            <TextBox x:Name="CorrectAnswerTextBox" Width="300" Margin="5" />
+
+            <TextBlock Text="Assigned Marks:" />
+            <TextBox x:Name="AssignedMarksTextBox" Width="300" Margin="5" />
+
+            <TextBlock Text="Time Limit (Seconds):" />
+            <TextBox x:Name="TimeLimitTextBox" Width="300" Margin="5" />
+
+            <TextBlock Text="Topic:" />
+            <TextBox x:Name="TopicTextBox" Width="300" Margin="5" />
+
+            <TextBlock Text="Difficulty Level:" />
+            <ComboBox x:Name="DifficultyComboBox" Width="300" Margin="5">
+                <ComboBoxItem Content="Easy" />
+                <ComboBoxItem Content="Medium" />
+                <ComboBoxItem Content="Hard" />
+            </ComboBox>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10">
+                <Button Content="Add Question" Width="100" Margin="5" Click="AddQuestionButton_Click"/>
+                <Button Content="Update Question" Width="100" Margin="5" Click="UpdateQuestionButton_Click"/>
+                <Button Content="Delete Question" Width="100" Margin="5" Click="DeleteQuestionButton_Click"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- ProgressBar -->
+        <ProgressBar x:Name="LoadingProgressBar" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Height="20" Margin="10" Visibility="Collapsed" />
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+CREATE TABLE QuizQuestions (
+    QuestionID INT PRIMARY KEY IDENTITY(1,1),
+    QuestionText NVARCHAR(MAX) NOT NULL,
+    Option1 NVARCHAR(255) NOT NULL,
+    Option2 NVARCHAR(255) NOT NULL,
+    Option3 NVARCHAR(255) NOT NULL,
+    Option4 NVARCHAR(255) NOT NULL,
+    CorrectAnswer NVARCHAR(255) NOT NULL,
+    AssignedMarks INT NOT NULL,
+    TimeLimitSeconds INT NOT NULL,
+    Topic NVARCHAR(255) NOT NULL,
+    DifficultyLevel NVARCHAR(50) NOT NULL
+);
+
+INSERT INTO QuizQuestions (QuestionText, Option1, Option2, Option3, Option4, CorrectAnswer, AssignedMarks, TimeLimitSeconds, Topic, DifficultyLevel)
+VALUES 
+('What is the capital of France?', 'Berlin', 'Madrid', 'Paris', 'Rome', 'Paris', 5, 30, 'Geography', 'Easy'),
+('What is 2+2?', '3', '4', '5', '6', '4', 2, 15, 'Mathematics', 'Easy'),
+('Who wrote "Hamlet"?', 'Charles Dickens', 'William Shakespeare', 'J.K. Rowling', 'Ernest Hemingway', 'William Shakespeare', 10, 60, 'Literature', 'Medium');
+
+
+select * from QuizQuestions;
